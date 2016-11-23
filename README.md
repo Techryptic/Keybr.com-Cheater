@@ -1,5 +1,6 @@
-# Keybr.com-Cheater
-Fun way to mess with your friends on multiplayer
+#[Keybr.com-Cheater](http://anthonys.io/keybr-com-multiplayer-cheater/): Fun way to mess with your friends on multiplayer
+
+Created by [@Tech](https://twitter.com/Tech) || [anthonys.io](http://anthonys.io)
 
 ![pic](http://anthonys.io/content/images/2016/11/keybr.png)
 
@@ -96,6 +97,7 @@ os.remove("output.txt")
 ``` 
 #Conclusion
 Below is a video of the process that I recored, very simple to implement. Thank you for reading my fun adventures in python!
+To view full blog entry, visit: [anthonys.io](http://anthonys.io)
 
 
 [Video link to vid.me](https://vid.me/fg7E)
