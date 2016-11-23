@@ -49,7 +49,7 @@ time.sleep(1)
 text = open('output.txt', 'r').read().strip()
 for ch in text:
 #type out the text
-subprocess.call(["xdotool", "type", ch])
+    subprocess.call(["xdotool", "type", ch])
 #increase or decrease the time below to type slower or faster
 time.sleep(0.0001)
 
