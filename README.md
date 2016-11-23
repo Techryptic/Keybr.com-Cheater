@@ -1,10 +1,9 @@
 # Keybr.com-Cheater
 Fun way to mess with your friends on multiplayer
 
-I recently found out about the website Keybr.com, which is used to improve your typing speed. I'm averaging around 105 wpm, but there is room for improvements. Keybr introduces a fun way to improve by playing against other real-time players around the world in a race. After playing for a few weeks, I got curious and wanted to know what their max speed was set to (If they even had a limit or not).
+![pic](http://anthonys.io/content/images/2016/11/keybr.png)
 
-If you want to view the full code all together, I uploaded it to my Github page:
-[Github Page](https://github.com/anthonys-io/Keybr.com-Cheater)
+I recently found out about the website Keybr.com, which is used to improve your typing speed. I'm averaging around 105 wpm, but there is room for improvements. Keybr introduces a fun way to improve by playing against other real-time players around the world in a race. After playing for a few weeks, I got curious and wanted to know what their max speed was set to (If they even had a limit or not).
 
 #The code:
 I decided to go with Python as I wanted to keep it very short and simple. In keybr, the faster you type the given text, the faster the car moves to your end goal. 
@@ -97,9 +96,6 @@ os.remove("output.txt")
 ``` 
 #Conclusion
 Below is a video of the process that I recored, very simple to implement. Thank you for reading my fun adventures in python!
-
-If you want to view the full code all together, I uploaded it to my Github page:
-[Github Page](https://github.com/anthonys-io/Keybr.com-Cheater)
 
 
 [Video link to vid.me](https://vid.me/fg7E)
