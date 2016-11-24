@@ -102,3 +102,7 @@ To view full blog entry, visit: [anthonys.io](http://anthonys.io)
 
 [Video link to vid.me](https://vid.me/fg7E)
 <iframe src="https://vid.me/e/fg7E?stats=1" width="854" height="480" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+
+#Update:
+Made a few changes so it works on leaderboards.
+![pic](http://anthonys.io/content/images/2016/11/lb.png)
